@@ -1,0 +1,6 @@
+@Web2_01_HostAddress = http://localhost:5164
+
+GET {{Web2_01_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
